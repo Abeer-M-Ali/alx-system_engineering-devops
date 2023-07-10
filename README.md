@@ -8,3 +8,5 @@
 ### 1. Shell permissions
 
 ### 2. shell_redirections
+
+### 3. Shell init
