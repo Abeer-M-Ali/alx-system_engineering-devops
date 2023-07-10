@@ -1,12 +1,12 @@
-# alx-system_engineering-devops
+# Alx System Engineering Devops
 
 
 ## Tasks:
 
-### 0. shell basics
+### 0. Shell Basics
 
-### 1. Shell permissions
+### 1. Shell Permissions
 
-### 2. shell_redirections
+### 2. Shell Redirections
 
-### 3. Shell init
+### 3. Shell Init
