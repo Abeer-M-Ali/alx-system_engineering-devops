@@ -7,3 +7,4 @@
 
 ### 1. Shell permissions
 
+### 3. shell_redirections
