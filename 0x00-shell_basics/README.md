@@ -1,4 +1,4 @@
-# Shell, basics Tasks :
+# Shell Basics Tasks :
 
 
 ## mandatory
@@ -55,7 +55,7 @@
 
 10. Write a script that changes the working directory to the previous one.
 
-* Note: the mode of `olleh` will not always be 664. Make sure your script works for any mode.
+** Note: the mode of `olleh` will not always be 664. Make sure your script works for any mode.
 
 ### Lists
 
@@ -65,7 +65,7 @@
 
 12. Write a script that prints the type of the file named `iamafile`. The file `iamafile` will be in the `/tmp` directory when we will run your script.
 
-* Note that depending on the file, the output of your script will be different.
+** Note that depending on the file, the output of your script will be different.
 
 ### We are symbols, and inhabit symbols
 
@@ -75,7 +75,7 @@
 
 14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
-* You can consider that all HTML files have the extension `.html`
+** You can consider that all HTML files have the extension `.html`
 
 
 ## advanced
@@ -94,7 +94,7 @@
 
 17. Create a script that creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory.
 
-* You are only allowed to use two spaces (and lines) in your script, not more.
+** You are only allowed to use two spaces (and lines) in your script, not more.
 
 ### Life is a series of commas, not periods
 
@@ -102,9 +102,9 @@
    - Directory names should end with a slash (`/`)
      - Files and directories starting with a dot (`.`) should be listed
        - The listing should be alpha ordered, except for the directories `.` and `..` which should be listed at the very beginning
-     	 - Only digits and letters are used to sort; Digits should come first
+         - Only digits and letters are used to sort; Digits should come first
            - You can assume that all the files we will test with will have at least one letter or one digit
-     	     - The listing should end with a new line
+     	       - The listing should end with a new line
 
 ### File type: School
 
