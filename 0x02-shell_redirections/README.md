@@ -1,7 +1,7 @@
-# Shell, I/O Redirections and filters Tasks :
+# Shell Redirections Tasks :
 
 
-## mandatory
+## Mandatory
 
 
 ### Hello World
@@ -111,7 +111,7 @@
    - Based on the the `/etc/passwd` file
 
 
-## advanced
+## Advanced
 
 
 ### Empty casks make the most noise
