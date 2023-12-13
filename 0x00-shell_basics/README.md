@@ -110,3 +110,6 @@
 
 18. Create a magic file `school.mgc` that can be used with the command file to detect `School` data files. `School` data files always contain the string `SCHOOL` at offset 0.
 
+## Author :octocat:
+
+- [Abeer Ragab](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) | [Twitter]([https://twitter.com/abeerragab5211) |
