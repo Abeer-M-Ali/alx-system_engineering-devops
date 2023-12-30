@@ -22,7 +22,7 @@ This repository contains projects on:
 * How the shell works
 * Navigating the file system
 * Manipulating files
-* I/O redirections, standard input, standard output, pipes, filters
+* I/O redirection, standard input, standard output, pipes, filters
 * Permissions
 * Job control
 * Shell scripts
@@ -77,10 +77,10 @@ git clone https://github.com/Abeer-M-Ali/[Github project directory]
 1. [0x06-regular_expressions](./0x06-regular_expressions)
 1. [0x07-networking_basics](./0x07-networking_basics)
 1. [0x08-networking_basics_2](./0x08-networking_basics_2)
-<!-- 1. [Command line for the win](./command_line_for_the_win)
+1. [Command line for the win](./command_line_for_the_win)
 1. [0x08-web_stack_debugging_0](./0x08-web_stack_debugging_0)
 1. [0x09-web_infrastructure_design](./0x09-web_infrastructure_design)
-1. [0x0A-configuration_management](./0x0A-configuration_management)
+<!--. 1 [0x0A-configuration_management](./0x0A-configuration_management)
 1. [0x0B-ssh](./0x0A-ssh)
 1. [0x0C-web_server](./0x0B-web_server)
 1. [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
